@@ -1,4 +1,4 @@
-# Recat Iframe
+# React Iframe
 
 <iframe> (short for inline frame) is an HTML element that allows you to embed external content, such as a webpage, within your own HTML document. In the context of React, you can create a simple React component that renders an <iframe> element to embed external content.
 
